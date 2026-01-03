@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - master
+      - "claude/academic-portfolio-site-24o0C" 
   workflow_dispatch:
 
 permissions:
