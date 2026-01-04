@@ -7,8 +7,20 @@ A modern, responsive academic portfolio website built with React, Tailwind CSS, 
 - **Responsive Design**: Fully responsive layout that works on all devices
 - **Modern UI**: Clean, professional design with smooth animations
 - **Interactive Publications Filter**: Filter publications by year
+- **Outreach Gallery**: Carousel and grid view for conference/workshop photos
 - **Smooth Navigation**: Sticky navbar with smooth scrolling
+- **Easy to Customize**: Update content without coding knowledge
 - **Performance**: Built with Vite for optimal performance
+
+## 📖 Customization Guide
+
+**Want to update your content?** See [`CUSTOMIZATION_GUIDE.md`](./CUSTOMIZATION_GUIDE.md) for step-by-step instructions on:
+- Adding images (outreach photos, graphical abstracts, research images)
+- Updating publications
+- Changing icons and logos
+- Modifying content
+
+No coding experience needed for basic updates!
 
 ## Tech Stack
 
