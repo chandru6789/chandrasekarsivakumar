@@ -11,19 +11,19 @@ const Gallery = () => {
   // Add your outreach images here
   const outreachImages = [
     {
-      src: '/images/outreach/conference1.jpg',
+      src: '/images/outreach/1H0A3766.jpg',
       title: 'International Conference on Materials Science',
       description: 'Presenting research findings at NIMS, Japan',
       year: '2025'
     },
     {
-      src: '/images/outreach/workshop1.jpg',
+      src: '/images/outreach/1H0A3788.jpg',
       title: 'Nanotechnology Workshop',
       description: 'Leading hands-on training session',
       year: '2024'
     },
     {
-      src: '/images/outreach/collaboration1.jpg',
+      src: '/images/outreach/1H0A3791.jpg',
       title: 'Research Collaboration',
       description: 'Working with international research team',
       year: '2024'
