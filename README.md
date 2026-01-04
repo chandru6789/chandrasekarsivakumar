@@ -1,94 +1,82 @@
-# Dr. Chandrasekar Sivakumar - Academic Portfolio
+# Dr. Chandrasekar Sivakumar
 
-A modern, responsive academic portfolio website built with React, Tailwind CSS, and Framer Motion.
+**Postdoctoral Scholar | Biomedical Engineering | Data Science & Machine Learning**
 
-## Features
+---
 
-- **Responsive Design**: Fully responsive layout that works on all devices
-- **Modern UI**: Clean, professional design with smooth animations
-- **Interactive Publications Filter**: Filter publications by year
-- **Outreach Gallery**: Carousel and grid view for conference/workshop photos
-- **Smooth Navigation**: Sticky navbar with smooth scrolling
-- **Easy to Customize**: Update content without coding knowledge
-- **Performance**: Built with Vite for optimal performance
+## 🌐 Portfolio Website
 
-## 📖 Customization Guide
+Visit my academic portfolio: **[chandru6789.github.io/chandrasekarsivakumar](https://chandru6789.github.io/chandrasekarsivakumar)**
 
-**Want to update your content?** See [`CUSTOMIZATION_GUIDE.md`](./CUSTOMIZATION_GUIDE.md) for step-by-step instructions on:
-- Adding images (outreach photos, graphical abstracts, research images)
-- Updating publications
-- Changing icons and logos
-- Modifying content
+This website showcases my research, publications, academic journey, and professional achievements in biomedical engineering and data science.
 
-No coding experience needed for basic updates!
+---
 
-## Tech Stack
+## 📚 What You'll Find
 
-- **Framework**: React 19
-- **Build Tool**: Vite 7
-- **Styling**: Tailwind CSS 4
-- **Animations**: Framer Motion 12
-- **Icons**: Lucide React
-- **Deployment**: GitHub Pages
+### 🏠 **Home**
+Welcome page featuring my current position, research interests, and quick links to connect with me on various platforms.
 
-## Local Development
+### 👤 **About**
+Learn about my background, research philosophy, professional memberships, awards, and key research highlights in:
+- Machine Learning for Healthcare
+- Medical Image Analysis
+- Computational Biology
+- Biomedical Data Science
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/chandru6789/chandrubot.git
-   cd chandrubot
-   ```
+### 💼 **Experience**
+Interactive timeline of my academic and professional journey:
+- Postdoctoral positions and research roles
+- Educational background
+- Teaching and mentorship experience
 
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
+### 📄 **Publications**
+Comprehensive list of my peer-reviewed publications with:
+- Interactive year-based filtering
+- Links to full papers and DOIs
+- Graphical abstracts and visual summaries
+- Citation information
 
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
+### 📸 **Outreach**
+Gallery showcasing my participation in:
+- International conferences
+- Workshops and seminars
+- Academic collaborations
+- Community engagement
 
-4. Build for production:
-   ```bash
-   npm run build
-   ```
+### 📧 **Contact**
+Get in touch for collaborations, research opportunities, or academic discussions.
 
-5. Preview production build:
-   ```bash
-   npm run preview
-   ```
+---
 
-## Deployment
+## 🎨 Design Highlights
 
-This site is automatically deployed to GitHub Pages when changes are pushed to the main branch.
+This portfolio features a **modern, professional design** with:
+- ✨ Smooth animations and transitions
+- 📱 Fully responsive layout (mobile, tablet, desktop)
+- 🎯 Clean, academic aesthetic
+- 🌙 Easy-to-read typography
+- ⚡ Fast loading and optimal performance
 
-The deployment is handled by GitHub Actions workflow defined in `.github/workflows/deploy.yml`.
+**Color Scheme**: Academic Modern palette with navy, gold, and slate tones for a professional appearance.
 
-## Sections
+---
 
-- **Home**: Hero section with profile information and social links
-- **About**: Biography, memberships, awards, and research highlights
-- **Experience**: Timeline of employment history and education
-- **Publications**: Filterable list of academic publications
-- **Contact**: Contact information and visitor statistics
+## 🛠️ For Developers
 
-## Customization
+Interested in the technical details or want to set up your own version?
 
-To customize the content, edit the respective component files in `src/components/`:
-- `Hero.jsx` - Profile information and hero section
-- `About.jsx` - Biography and research highlights
-- `Experience.jsx` - Employment and education timeline
-- `Publications.jsx` - Publications list
-- `Contact.jsx` - Contact information and footer
+- **Setup Instructions**: See [`SETUP.md`](./SETUP.md)
+- **Customization Guide**: See [`CUSTOMIZATION_GUIDE.md`](./CUSTOMIZATION_GUIDE.md)
 
-## Color Palette
+**Built with**: React, Vite, Tailwind CSS, Framer Motion
 
-The site uses an "Academic Modern" color scheme:
-- **Navy**: Primary headings and professional elements
-- **Gold**: Accent color for buttons and highlights
-- **Slate**: Body text and secondary elements
+---
 
-## License
+## 📬 Connect
+
+Feel free to explore my work and reach out for research collaborations or academic discussions!
+
+---
 
 © 2026 Chandrasekar Sivakumar. All rights reserved.
