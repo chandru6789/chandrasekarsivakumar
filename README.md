@@ -1,6 +1,8 @@
-# Dr. Chandrasekar Sivakumar
+# Chandrasekar Sivakumar
 
-**Postdoctoral Scholar | Biomedical Engineering | Data Science & Machine Learning**
+**NIMS Postdoctoral Researcher**
+Research Center for Materials Nanoarchitectonics (MANA)
+National Institute for Materials Science, Tsukuba, Japan
 
 ---
 
@@ -8,21 +10,20 @@
 
 Visit my academic portfolio: **[chandru6789.github.io/chandrasekarsivakumar](https://chandru6789.github.io/chandrasekarsivakumar)**
 
-This website showcases my research, publications, academic journey, and professional achievements in biomedical engineering and data science.
+An interdisciplinary researcher pioneering next-generation non-volatile memory technologies through innovative experimentation and theoretical simulations.
 
 ---
 
 ## 📚 What You'll Find
 
 ### 🏠 **Home**
-Welcome page featuring my current position, research interests, and quick links to connect with me on various platforms.
+Welcome page featuring my current position at NIMS, research focus on next-generation memory technologies, and quick links to connect via Google Scholar, LinkedIn, and ResearchGate.
 
 ### 👤 **About**
-Learn about my background, research philosophy, professional memberships, awards, and key research highlights in:
-- Machine Learning for Healthcare
-- Medical Image Analysis
-- Computational Biology
-- Biomedical Data Science
+Learn about my interdisciplinary research background in materials science, professional memberships, awards, and key research highlights:
+- **Tailoring Properties of 2D Materials** - Strain Engineering & Electric Field Modulation
+- **Molecular Dynamics Simulations** - Grain Boundary Effects in ReRAM
+- **Phosphate Adsorption Studies** - on Goethite
 
 ### 💼 **Experience**
 Interactive timeline of my academic and professional journey:
@@ -31,21 +32,21 @@ Interactive timeline of my academic and professional journey:
 - Teaching and mentorship experience
 
 ### 📄 **Publications**
-Comprehensive list of my peer-reviewed publications with:
+Comprehensive list of peer-reviewed publications in materials science and nanotechnology:
 - Interactive year-based filtering
 - Links to full papers and DOIs
+- Research on non-volatile memory, 2D materials, and DFT calculations
 - Graphical abstracts and visual summaries
-- Citation information
 
 ### 📸 **Outreach**
-Gallery showcasing my participation in:
-- International conferences
-- Workshops and seminars
-- Academic collaborations
-- Community engagement
+Gallery showcasing participation in:
+- International materials science conferences
+- Workshops and research seminars
+- Academic collaborations in nanomaterials
+- Research presentations
 
 ### 📧 **Contact**
-Get in touch for collaborations, research opportunities, or academic discussions.
+Get in touch for research collaborations in materials science, memory technologies, or nanoscale simulations.
 
 ---
 
